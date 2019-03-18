@@ -14,6 +14,8 @@ print('Nasze zmienne to: {}, {}, {}, {}, {}').format(type(boolVar), type(stringV
 def draw():
     if mousePressed:
         line(25,50,100,100)
+    #w przeciwnym razie
+        #powinno się 'oddziać', jako że miało się coś rysować tylko gdy mysz kliknięta
         
         
     
